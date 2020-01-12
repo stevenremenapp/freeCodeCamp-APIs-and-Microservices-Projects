@@ -3,10 +3,10 @@ This is a repository to collect the freeCodeCamp APIs and Microservices Certific
 Completed:
 
 1) File metadata microservice
+2) Timestamp microservice
 
 To Do:
 
-1) Timestamp microservice
-2) Request Header Parser microservice
-3) URL Shortener microservice
-4) Exercise Tracker
+1) Request Header Parser microservice
+2) URL Shortener microservice
+3) Exercise Tracker
