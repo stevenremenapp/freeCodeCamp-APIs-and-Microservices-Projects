@@ -4,9 +4,9 @@ Completed:
 
 1) File metadata microservice
 2) Timestamp microservice
+3) Request header parser microservice
 
 To Do:
 
-1) Request Header Parser microservice
-2) URL Shortener microservice
-3) Exercise Tracker
+1) URL shortener microservice
+2) Exercise Tracker
