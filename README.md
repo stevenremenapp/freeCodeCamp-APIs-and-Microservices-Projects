@@ -10,7 +10,7 @@ This is a repository to collect my freeCodeCamp APIs and Microservices Certifica
 
 <details>
   <summary>1) File metadata microservice</summary>
-    <a href="https://glitch.com/edit/#!/fcc-file-metadata-microservice-project-666">Project can be found here</a>
+    Project can be found here: https://glitch.com/edit/#!/fcc-file-metadata-microservice-project-666
     
     API Project: File Metadata Microservice for freeCodeCamp
 
@@ -24,7 +24,7 @@ This is a repository to collect my freeCodeCamp APIs and Microservices Certifica
 </details>
 <details>
   <summary>2) Timestamp microservice</summary>
-    [Project can be found here](https://glitch.com/edit/#!/fcc-timestamp-microservice-project-666)
+    Project can be found here: https://glitch.com/edit/#!/fcc-timestamp-microservice-project-666
     
     API Project: Timestamp Microservice for FCC
 
@@ -62,7 +62,7 @@ This is a repository to collect my freeCodeCamp APIs and Microservices Certifica
 </details>
 <details>
   <summary>4) URL shortener microservice</summary>
-    <a href="https://glitch.com/edit/#!/fcc-url-shortener-microservice-project-666"><h2>Project can be found here</h2></a>
+    Project can be found here: https://glitch.com/edit/#!/fcc-url-shortener-microservice-project-666
     
     API Project: URL Shortener Microservice for freeCodeCamp
 
@@ -86,7 +86,7 @@ This is a repository to collect my freeCodeCamp APIs and Microservices Certifica
 </details>
 <details>
   <summary>5) Exercise Tracker</summary>
-      <a href="https://glitch.com/edit/#!/fcc-exercise-tracker-666"><h2>Project can be found here</h2></a>
+      Project can be found here: https://glitch.com/edit/#!/fcc-exercise-tracker-666
       
       Exercise Tracker REST API
 
