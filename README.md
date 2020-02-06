@@ -10,7 +10,7 @@ This is a repository to collect my freeCodeCamp APIs and Microservices Certifica
 
 <details>
   <summary>1) File metadata microservice</summary>
-    <a href="https://glitch.com/edit/#!/fcc-file-metadata-microservice-project-666"><h2>Project can be found here</h2></a>
+    <a href="https://glitch.com/edit/#!/fcc-file-metadata-microservice-project-666">Project can be found here</a>
     
     API Project: File Metadata Microservice for freeCodeCamp
 
@@ -24,7 +24,7 @@ This is a repository to collect my freeCodeCamp APIs and Microservices Certifica
 </details>
 <details>
   <summary>2) Timestamp microservice</summary>
-    <a href="https://glitch.com/edit/#!/fcc-timestamp-microservice-project-666"><h2>Project can be found here</h2></a>
+    [Project can be found here](https://glitch.com/edit/#!/fcc-timestamp-microservice-project-666)
     
     API Project: Timestamp Microservice for FCC
 
@@ -47,7 +47,7 @@ This is a repository to collect my freeCodeCamp APIs and Microservices Certifica
 </details>
 <details>
   <summary>3) Request header parser microservice</summary>
-    <a href="https://glitch.com/edit/#!/fcc-request-header-parser-microservice-666"><h2>Project can be found here</h2></a>
+    Project can be found here: https://glitch.com/edit/#!/fcc-request-header-parser-microservice-666
     
     API Project: Request Header Parser Microservice for freeCodeCamp
 
